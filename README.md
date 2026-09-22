@@ -8,7 +8,7 @@ It streamlines the setup process using **CreamAPI** integration and supports mos
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release](https://github.com/Euro-Truck-Simulator-DLC-Unlocker-v3/.github/releases)
+  👉 [The Latest Release](https://github.com/ETS2-DLC-Tool/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
